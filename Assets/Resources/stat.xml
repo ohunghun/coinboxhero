@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats>
+  <horse0 clonecost="200"
+         power="1"
+          />
+  <horse1 clonecost="200" 
+          power="1"
+          />
+  <horse2 clonecost="1000"
+        power="3"
+          />
+  <horse3 clonecost="5000"
+      power="10"
+          />
+  <horse4 clonecost="5000"
+      power="15"
+          />
+  <horse5 clonecost="5000"
+      power="30"
+          />
+  <horse6 clonecost="5000"
+      power="30"
+          />
+  <horse7 clonecost="5000"
+      power="30"
+          />
+  <horse8 clonecost="5000"
+      power="30"
+          />
+  <horse9 clonecost="5000"
+      power="30"
+          />
+  <horse10 clonecost="5000"
+    power="30"
+          />
+  <horse11 clonecost="5000"
+     power="30"
+          />
+  
+  
+</stats>
